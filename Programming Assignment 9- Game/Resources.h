@@ -1,0 +1,16 @@
+#pragma once
+#include <SFML/Graphics.hpp>
+#include <iostream>
+#include <string>
+#include <fstream>
+using std::cout;
+using std::cin;
+using std::endl;
+using std::getline;
+using std::string;
+using std::fstream;
+using std::istream;
+using std::ostream;
+using std::min;
+using std::max;
+using std::vector;
